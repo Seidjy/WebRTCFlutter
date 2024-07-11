@@ -1,0 +1,6 @@
+framework module WebRTCFlutter {
+  umbrella header "WebRTCFlutter.h"
+
+  export *
+  module * { export * }
+}
