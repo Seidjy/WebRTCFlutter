@@ -8,6 +8,8 @@ Pod::Spec.new do |spec|
     The binary files in this repository are compiled using Google WebRTC source code M version, 
     and a series of optimization patches from the webrtc-sdk community have been added.
     DESC
+
+    spec.source           = { :path => '.' }
   
     spec.homepage     = "https://github.com/webrtc-sdk/Specs"
     spec.license      = { :type => 'BSD', :file => 'WebRTC.xcframework/LICENSE' }
