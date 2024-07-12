@@ -11,5 +11,5 @@ source 'https://github.com/Seidjy/WebRTCFlutter.git'
 ```
 
 ```podspec
-pod 'WebRTC-SDK', '=114.5735.08'
+pod 'WebRTC-SDK', :git => 'https://github.com/Seidjy/WebRTCFlutter.git'
 ```
