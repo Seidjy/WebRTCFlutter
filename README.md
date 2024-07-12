@@ -7,7 +7,7 @@ CocoaPod Specs for iOS/macOS
 Use the following lines near the top of your Podfile
 
 ```podspec
-source 'https://github.com/webrtc-sdk/Specs.git'
+source 'https://github.com/Seidjy/WebRTCFlutter.git'
 ```
 
 ```podspec
